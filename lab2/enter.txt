@@ -1,0 +1,2 @@
+conda create -c conda-forge -n mindspore_py37 python=3.9 -y
+conda activate mindspore_py37
